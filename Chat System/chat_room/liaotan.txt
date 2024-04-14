@@ -1,0 +1,32 @@
+#jack:nihao
+@lisa:okok
+$dandy:okok
+#jack:@ lisa nihaode
+@lisa:@ jack nihao
+#jack:
+#jack:nihao
+#jack:quit
+@lisa:quit
+$dandy:quit
+#jack:
+#jack:
+#jack:
+#jack:
+#jack:
+#jack:
+#jack:
+#jack:
+#jack:nihao
+#jack:quit
+Fri Mar  8 17:03:27 2024
+#jack:nihao
+Fri Mar  8 19:23:08 2024
+$dandy:nihao jack
+Fri Mar  8 19:25:11 2024
+#jack:@ lisa hello!!
+Fri Mar  8 19:25:41 2024
+#jack:
+Fri Mar  8 19:31:20 2024
+#jack:d
+Fri Mar  8 19:44:38 2024
+#jack:quit

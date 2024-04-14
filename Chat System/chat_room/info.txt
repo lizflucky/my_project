@@ -1,0 +1,13 @@
+
+Fri Mar  8 10:21:36 2024->jack:nimenhao
+Fri Mar  8 10:21:40 2024->jack:@ lisa haha
+Fri Mar  8 10:21:59 2024->jack:quit
+Fri Mar  8 10:21:59 2024->jack:quit
+->lisa:quit
+:quit
+Fri Mar  8 10:21:59 2024->jack:quit
+->lisa:quit
+:quit
+->dandyquit
+:quit
+:quit
