@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>model/摄像头.jpg</file>
+        <file>model/天气.jpg</file>
+        <file>model/音乐.jpg</file>
+        <file>model/智能家居.jpg</file>
+        <file>model/1.jpg</file>
+        <file>model/3.jpg</file>
+        <file>model/preview.jpg</file>
+    </qresource>
+</RCC>

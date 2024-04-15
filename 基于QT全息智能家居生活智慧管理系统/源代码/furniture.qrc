@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>furniture/f.jpg</file>
+        <file>furniture/fgif.gif</file>
+        <file>furniture/OGC.gif</file>
+        <file>furniture/灯.gif</file>
+        <file>furniture/灯1.png</file>
+        <file>furniture/冷.jpg</file>
+        <file>furniture/热.jpg</file>
+        <file>furniture/温度计.png</file>
+        <file>furniture/正常.jpg</file>
+        <file>furniture/home.png</file>
+    </qresource>
+</RCC>

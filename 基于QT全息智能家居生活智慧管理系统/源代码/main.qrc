@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>main/菜单.jpg</file>
+        <file>main/登录.jpg</file>
+    </qresource>
+</RCC>

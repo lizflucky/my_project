@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>图片/1.jfif</file>
+        <file>图片/2.jfif</file>
+        <file>图片/2.jpg</file>
+        <file>图片/3.jfif</file>
+        <file>图片/3.jpg</file>
+        <file>图片/4.jfif</file>
+        <file>图片/5.jfif</file>
+        <file>图片/6.jfif</file>
+        <file>图片/7.jfif</file>
+        <file>图片/8.jfif</file>
+        <file>图片/666.gif</file>
+        <file>图片/preview.gif</file>
+        <file>图片/preview.jpg</file>
+        <file>图片/preview1.jpg</file>
+        <file>图片/preview3.jpg</file>
+        <file>图片/rename.bat</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>图片/home.png</file>
+    </qresource>
+</RCC>

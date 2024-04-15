@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>天气/大雨.gif</file>
+        <file>天气/多云.gif</file>
+        <file>天气/晴.gif</file>
+        <file>天气/小雨.gif</file>
+        <file>天气/阴.gif</file>
+        <file>天气/中雨.gif</file>
+        <file>天气/阴天1.gif</file>
+        <file>天气/霾.jpg</file>
+    </qresource>
+</RCC>
