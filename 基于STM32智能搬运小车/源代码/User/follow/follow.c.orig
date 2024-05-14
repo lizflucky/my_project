@@ -1,0 +1,40 @@
+#include "Delay.h"
+#include "Motor.h"
+#include "HC_SR04.h"
+
+
+
+int mian(void)
+{
+		
+		int Distance_mm = Sonar();
+		int Distance_cm = Distance_mm / 10;
+		int Distance_cm_p = Distance_mm % 10;
+		
+		
+		
+	while(1)
+		{
+					
+		if (Distance_cm ==0 && Distance_cm_p==0)
+		{
+			Car_Stop();
+		}
+		else
+		{
+			if (Distance_cm > 20)
+			{
+				Car_Forward(200);
+			}
+			else if (Distance_cm < 10)
+			{
+				Car_Backward(200);
+			}
+			else
+			{
+				Car_Stop();
+			}
+		}
+		Delay_ms(300);
+	}
+}
